@@ -1,2 +1,2 @@
-# Ineuron_Assignment_1
-This is ASSIGNMENT NO.1
+# Ineuron_Assignment
+These are the ASSIGNMENTS.
